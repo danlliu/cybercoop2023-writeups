@@ -39,8 +39,8 @@ These are my writeups for The Cyber Cooperative CTF! In the end, our team ("sock
 
 ## Crypto
 
-- wicked (200)
-- slots (250)
-- nullnull (300)
-- Emperor's New Crypto (300)
+- [wicked (200)](crypto/wicked.md)
+- [slots (250)](crypto/slots.md)
+- [nullnull (300)](crypto/nullnull.md)
+- [Emperor's New Crypto (300)](crypto/emperorsnewcrypto.md)
 
