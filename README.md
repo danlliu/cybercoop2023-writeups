@@ -15,8 +15,8 @@ These are my writeups for The Cyber Cooperative CTF! In the end, our team ("sock
 
 ## Exploitation
 
-- 8 ^ 256 (300)
-- Stumped (500)
+- [8 ^ 256 (300)](pwn/canary.md)
+- [Stumped (500)](pwn/stumped.md)
 
 ## Forensics
 
