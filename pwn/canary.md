@@ -79,7 +79,7 @@ Let's take a look at `handle`. It asks us for how much data we want to read, and
 
 Surely nothing can go wrong with that, ri-
 
-![aaaaaaaaaaaaaaaa](https://media1.tenor.com/m/2WMaBBmy40oAAAAd/cat-aaa-scream-keyboard-acer-laptop.gif)
+![aaaaaaaaaaaaaaaa](../assets/canary/aaaaaaaa.gif)
 
 -ght?
 
