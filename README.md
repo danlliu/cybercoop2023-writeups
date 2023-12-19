@@ -34,8 +34,8 @@ These are my writeups for The Cyber Cooperative CTF! In the end, our team ("sock
 
 ## Networking
 
-- dread pirate (200)
-- Back In My Day (300)
+- [dread pirate (200)](networking/dreadpirate.md)
+- [Back In My Day (300)](networking/backinmyday.md)
 
 ## Crypto
 
