@@ -20,10 +20,10 @@ These are my writeups for The Cyber Cooperative CTF! In the end, our team ("sock
 
 ## Forensics
 
-- Lost at Sea (100)
-- babyhide (100)
-- Funding Secured (200)
-- secure router (300)
+- [Lost at Sea (100)](forens/lostatsea.md)
+- [babyhide (100)](forens/babyhide.md)
+- [Funding Secured (200)](forens/fundingsecured.md)
+- [secure router (300)](forens/securerouter.md)
 
 ## Web
 
